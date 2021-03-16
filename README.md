@@ -4,4 +4,4 @@ This is an example repo showing how to perform the following actions using the [
     - Audit
     - Config
 
-For additional resources, please visit the [Lacework Support] (https://support.lacework.com/hc/en-us) site
+For additional resources, please visit the [Lacework Support](https://support.lacework.com/hc/en-us) site
